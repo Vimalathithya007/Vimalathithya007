@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vimalathithya007 an Enthusiast  in the Field of AI | ML | DL  
-- 
+
 - Intrested  in compititve programming , server side scripting and Tronix.
-- 
 
 -  I’m currently learning  Instrumentation and control Engineering at National Institue of Technology Trichy , India.
 
