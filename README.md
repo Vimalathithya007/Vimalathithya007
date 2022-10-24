@@ -34,7 +34,9 @@
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147372074-789c99cc-0d27-45f6-9827-7fd0ed60b780.png"></code>
+<code><img height="40" width="40" src="https://cdn.thenewstack.io/media/2021/02/95231a39-jupyter.png"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"></code>
@@ -46,11 +48,12 @@
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height ="40" and width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img height="40" width="40" src="https://camo.githubusercontent.com/96b994379ddb07a76815c60efe47c6733eae37b5a9ef17ffe06b2ef6b89ec05f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39322f4c615465585f6c6f676f2e737667"></code>
-<code><img height="40" width="40" src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/pascalgrimaud/docker-postgresql/master/postgresql.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/6789362?s=200&v=4"></code>
+<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/8590076?s=200&v=4"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
 
 
