@@ -12,8 +12,11 @@
 
 -  📝I’m currently learning  Instrumentation and control Engineering at National Institue of Technology Trichy , India.
 
--  📫 contact me via Gmail :**vimalathithya7@gmail.com**  
+
+   📫 How to Reach me 
+-  📧                Gmail :**vimalathithya7@gmail.com**  
 -  🔗                Linked in : https://in.linkedin.com/in/vimal-athithya-354a2722a
+-  📒                Kaggle    : https://www.kaggle.com/vimalathithya007
                  
 - Any Like Minded people Can contact me for project  🫂  
 
