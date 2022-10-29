@@ -49,12 +49,12 @@
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147372415-aff7664b-7179-4f24-a772-d7485c866412.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height ="40" and width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+<!--<code><img height ="40" and width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>-->
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/6789362?s=200&v=4"></code>
 <code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/8590076?s=200&v=4"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
