@@ -5,13 +5,12 @@
 </h1>
 <br/>
 
-- 👋 Hi, I’m @Vimalathithya007 
+-  @Vimalathithya007  - ML Enthusiast and Philomath
 
 
-
+<br>
   
--  🔗                Linked in : https://in.linkedin.com/in/vimal-athithya-354a2722a
--  📒                Kaggle    : https://www.kaggle.com/vimalathithya007
+
                  
 
     
@@ -43,7 +42,6 @@
 </p>
 <br>
 
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Vimalathithya007&theme=react-dark&hide_border=true&area=true) 
 
 
   
