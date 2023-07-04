@@ -5,7 +5,7 @@
 </h1>
 <br/>
 
--  @Vimalathithya007  - ML Enthusiast and Philomath
+-  <h3>@Vimalathithya007  - ML Enthusiast and Philomath</h3>
 
 
 <br>
