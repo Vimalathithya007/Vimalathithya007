@@ -5,22 +5,15 @@
 </h1>
 <br/>
 
-- 👋 Hi, I’m @Vimalathithya007 an Enthusiast  in the Field of AI | ML | DL  
-
--  💻Intrested in compititve programming , server side scripting and Tronix.
--  🔭Love Opensource ❤️❤️
-
--  📝I’m currently learning  Instrumentation and control Engineering at National Institue of Technology Trichy , India.
+- 👋 Hi, I’m @Vimalathithya007 
 
 
-   📫 How to Reach me 
--  📧                Gmail :**vimalathithya7@gmail.com**  
+
+  
 -  🔗                Linked in : https://in.linkedin.com/in/vimal-athithya-354a2722a
 -  📒                Kaggle    : https://www.kaggle.com/vimalathithya007
                  
-- Any Like Minded people Can contact me for project  🫂  
 
-     welcome  all❤️
     
   
   
@@ -30,37 +23,11 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vimalathithya007&theme=dark&hide_border=true"/>
   </a>
   
-</p>
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147372074-789c99cc-0d27-45f6-9827-7fd0ed60b780.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147372415-aff7664b-7179-4f24-a772-d7485c866412.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<!--<code><img height ="40" and width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>-->
-<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/6789362?s=200&v=4"></code>
-<code><img height="40" width="40" src="https://avatars.githubusercontent.com/u/8590076?s=200&v=4"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
 
 
-<br/>
+
+
+
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
