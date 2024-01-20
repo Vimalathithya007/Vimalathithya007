@@ -5,7 +5,7 @@
 </h1>
 <br/>
 
--  <h3>Philomath</h3>
+
 
 
 <br>
